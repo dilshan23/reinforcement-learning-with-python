@@ -94,7 +94,7 @@ print q_table
 
 #now 8th row updated--> best acrtion is in state 8th is to move left as confirmed also by reqard table
 
-#next day we will automate this process using a loop
+#next : utomate this process using a loop
 
 
 
